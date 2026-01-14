@@ -1,4 +1,4 @@
-# ***🧠 DEA–Ensemble Learning Framework for Efficiency Prediction***
+# ***DEA–Ensemble Learning Framework for Efficiency Prediction***
 This repository provides the full Python implementation accompanying the paper:
 _"Kehinde, T. O., Oyedele, A. A., Kareem, M. K., Akpan, J., & Olanrewaju, O. A. (2026). Explainable DEA–ensemble approach with golden jackal optimization: efficiency evaluation and prediction for United States information technology firms. Machine Learning with Applications, 23, 100798. https://doi.org/https://doi.org/10.1016/j.mlwa.2025.100798"_
 
